@@ -8,14 +8,14 @@
         conda create -p interview python=3.10 -y
 ```
 
-2. Create an environment
+2. Activate an environment
 
 ```bash
-        conda create -p interview python=3.10 -y
+        conda activate interview/
 ```
 
 3. Deactivate the environment
 
 ```bash
-conda create -p interview python=3.10 -y
+        conda deactivate
 '''
