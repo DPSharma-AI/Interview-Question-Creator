@@ -18,4 +18,10 @@
 
 ```bash
         conda deactivate
+```
+
+4. install requirements
+
+```bash
+        pip install -r requirements.txt
 '''
